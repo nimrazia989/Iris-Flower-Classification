@@ -28,3 +28,24 @@ This is a beginner-friendly Machine Learning project to classify iris flowers in
 2. Install required libraries
 ```bash id=ml-install
 pip install scikit-learn numpy
+
+**Run the project:**
+python iris_classification.py
+
+Accuracy: 1.0
+
+Classification Report:
+              precision    recall  f1-score   support
+   setosa       1.00      1.00      1.00        10
+versicolor     1.00      1.00      1.00        10
+ virginica     1.00      1.00      1.00        10
+
+Predicted Iris Class: setosa
+
+👤 Author
+
+Nimra
+
+⭐ Support
+
+If you like this project, feel free to star the repository and explore more ML projects!
